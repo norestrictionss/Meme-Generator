@@ -1,0 +1,62 @@
+
+.header-container{
+
+    background-color: purple;
+    display: flex;
+
+}
+
+.input-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    
+    
+}
+
+
+.meme-button{
+    background-color: purple;
+}
+.input-field{
+    border-radius: 50vh;
+}
+
+.input-container > *{
+    margin-left: 40px;
+    height: 40px;
+    width: 200px;
+}
+
+
+.all-element-container > *{
+    margin-top: 30px;
+}
+#header-text{
+    color: white;
+}
+#troll-face{
+
+    align-items:flex-start;
+    width: 100px;
+    height: 100px;
+}
+
+.button-field:hover{
+    background-color: white;
+    color: black;
+}
+.button-field{
+    background-color: purple;
+    width: 200px;
+    height: 100px;
+    color: white;
+    border-radius: 50vh;
+}
+
+.all-elements-container{
+
+    padding: 30px;
+    
+
+}
